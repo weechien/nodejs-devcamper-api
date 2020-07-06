@@ -1,0 +1,7 @@
+{
+  "legacyWatch": true,
+  "watch": ["."],
+  "ext": "ts",
+  "ignore": [],
+  "exec": "ts-node server.ts"
+}
