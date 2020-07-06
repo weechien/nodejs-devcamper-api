@@ -28,6 +28,7 @@
     "nodemailer": "^6.4.10",
     "slugify": "^1.4.4",
     "ts-node": "^8.10.2",
+    "typescript": "^3.9.6",
     "xss-filters": "^1.2.7"
   },
   "devDependencies": {
@@ -50,7 +51,6 @@
     "@types/xss-filters": "0.0.27",
     "colors": "^1.4.0",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.4",
-    "typescript": "^3.9.5"
+    "nodemon": "^2.0.4"
   }
 }
